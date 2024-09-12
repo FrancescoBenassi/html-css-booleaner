@@ -33,3 +33,7 @@ figure > img {
 .evidenziatore {
     background-color: yellow;
 }
+.list > ul {
+    padding-left: 20px;
+    margin: 30px 0px 30px 0px;
+}
