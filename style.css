@@ -18,3 +18,15 @@ h1 {
 span {
     color: rgb(0, 0, 255, 0.5);
 }
+figure {
+    margin: 10px 0px 0px 0px;
+}
+figure > img {
+    width: 400px;
+    height: 300px;
+    margin: 0px;
+}
+.descrizione > div {
+    margin: 0px;
+    font-size: 10px;
+}
