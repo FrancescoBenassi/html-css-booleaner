@@ -53,3 +53,10 @@ th {
 .row {
     background-color: rgb(173, 216, 230, 0.5);
 }
+footer {
+    color: white;
+    background-color: darkblue;
+    text-align: center;
+    height: 50px; 
+    line-height: 50px;
+}
